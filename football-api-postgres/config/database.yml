@@ -83,3 +83,4 @@ production:
   database: football_api_postgres_production
   username: football_api_postgres
   password: <%= ENV['FOOTBALL_API_POSTGRES_DATABASE_PASSWORD'] %>
+
